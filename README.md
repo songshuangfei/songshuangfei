@@ -1,6 +1,12 @@
-### Hi there 🤣
-<img src="https://github-readme-stats.vercel.app/api?username=songshuangfei&show_icons=true"/>
-👀 https://suafe.cn
+### Hi 🤣
+
+- Web Front End.
+- Painting and Photography.
+
+My website 👀 https://suafe.cn.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=songshuangfei&show_icons=true"/>
+
 <!--
 **songshuangfei/songshuangfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
